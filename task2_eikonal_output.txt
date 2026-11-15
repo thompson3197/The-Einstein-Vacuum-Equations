@@ -1,0 +1,9 @@
+====================================================================
+TASK 2: SHARP EIKONAL & NULL STRUCTURE ESTIMATES REPORT
+====================================================================
+Null Hypersurface Shells Evaluated : 16
+Rough Metric Perturbation Scale    : 0.12
+Final Uniform Null Expansion tr_chi: 0.806
+Final Uniform Shear hat_chi        : 0.0857142857143
+Derivative Loss Status             : PREVENTED (Sharp Uniform Bounds)
+====================================================================

@@ -1,0 +1,4 @@
+[COMP 1 | INPUT] Initializing Schwarzschild-like initial slice with M=1.5
+[COMP 1 | OUTPUT] Initialized metric g_rr and extrinsic curvature k_rr across 24 shells
+[COMP 1 | PROCESS] Evaluating Hamiltonian/Momentum constraints and ADM surface integral
+[COMP 1 | OUTPUT] Max_Ham_Res=0.0, Measured_ADM=1.5

@@ -1,0 +1,10 @@
+====================================================================
+COMPONENT 1: EINSTEIN CONSTRAINT EQUATIONS & ADM ASYMPTOTIC REPORT
+====================================================================
+Radial Shells Evaluated      : 24
+Max Hamiltonian Residual     : 0.0
+Max Momentum Residual        : 2.90323233315e-09
+True ADM Mass Parameter      : 1.5
+Asymptotic ADM Mass Integral : 1.5
+Positive Mass Theorem Check  : PASSED (M_ADM >= 0)
+====================================================================

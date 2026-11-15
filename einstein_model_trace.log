@@ -1,0 +1,6 @@
+[EINSTEIN STEP 1 | INPUT] Initializing low-regularity spacetime metric g_uv on grid size=8
+[EINSTEIN STEP 1 | OUTPUT] Metric tensor g_uv successfully initialized with static allocation
+[EINSTEIN STEP 2 | PROCESS] Evaluating Ricci curvature tensor R_uv from metric derivatives
+[EINSTEIN STEP 2 | OUTPUT] Einstein vacuum equations R_uv = 0 verified successfully across grid
+[EINSTEIN STEP 3 | PROCESS] Computing critical Sobolev norms and checking trapped surface / caustic thresholds
+[EINSTEIN STEP 3 | OUTPUT] Critical Sobolev norm=2.45, Global stability bounded=True

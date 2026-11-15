@@ -1,0 +1,4 @@
+[COMP 3 | INPUT] Computing Bel-Robinson super-energy Q_0000 and Klainerman null form Q_0
+[COMP 3 | OUTPUT] Bel-Robinson Q_0000=0.54, Null Form Q_0=0.0
+[COMP 3 | PROCESS] Integrating Raychaudhuri equation d(tr_chi)/dv = -0.5*(tr_chi)^2 - |chi_hat|^2
+[COMP 3 | OUTPUT] Trapped surface formed at step=5, Caustic threshold step=21

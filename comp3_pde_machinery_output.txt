@@ -1,0 +1,9 @@
+=========================================================================
+COMPONENT 3: GEOMETRIC-PDE MACHINERY & TRAPPED SURFACE FORMATION REPORT
+=========================================================================
+Bel-Robinson Super-Energy Q_0000 : 0.54
+Klainerman Null Form Q_0         : 0.0 (Exact Null Cancellation)
+Initial Outgoing Expansion tr_chi: +1.0000 (Expanding 2-Sphere)
+Trapped Surface Formation Step   : Step 5 (tr_chi < 0 crossed)
+Caustic Focusing Threshold Step  : Step 21 (tr_chi <= -10.0)
+=========================================================================
